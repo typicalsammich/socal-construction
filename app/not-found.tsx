@@ -1,0 +1,1 @@
+export default function NotFound(){return <section className="wrap not-found"><p className="eyebrow">PAGE NOT FOUND</p><h1>Let’s get you<br/>back on track.</h1><p>This page isn’t available. Explore our services or start at the home page.</p><a className="button" href="/">Back to home</a></section>}
